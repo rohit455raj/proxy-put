@@ -1,0 +1,2 @@
+Flask==2.3.2  # Replace with the latest compatible version
+requests==2.31.0  # Replace with the latest compatible version
